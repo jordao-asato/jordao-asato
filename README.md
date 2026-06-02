@@ -1,6 +1,6 @@
 # Olá! Eu sou o Jordão Asato 😼
 
-Estudante do último ano de Ciência da Computação na UEL e Desenvolvedor Full Stack com foco no ecossistema Java e engenharia de dados. 
+Estudante do último ano de Ciência da Computação na UEL e Desenvolvedor Full Stack com foco no ecossistema Java e engenharia de software. 
 
 Atualmente, atuo no mercado com desenvolvimento full stack e na área de Garantia de Qualidade (Q.A.), o que me deu uma bagagem muito sólida na manutenção e sustentação de sistemas em produção, leitura de logs, depuração de bugs e automação de testes. Gosto de construir códigos limpos, testáveis e de alta performance, sempre trabalhando de forma integrada com metodologias ágeis.
 
