@@ -34,8 +34,11 @@ Atualmente, atuo no mercado com desenvolvimento full stack e na área de Garanti
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jordao-asato&show_icons=true&theme=radial&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordao-asato&layout=compact&theme=radial&langs_count=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jordao-asato&theme=github-dark-dimmed" width="100%" alt="Gráfico de Atividades do Jordão" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jordao-asato&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" />
 </p>
 
 ---
