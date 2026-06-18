@@ -6,7 +6,7 @@ Atualmente, atuo no mercado com desenvolvimento full stack e na área de Q.A., o
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 #### Back-end Core
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,7 +31,7 @@ Atualmente, atuo no mercado com desenvolvimento full stack e na área de Q.A., o
 
 ---
 
-### 📊 Minhas Estatísticas
+### Minhas Estatísticas
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jordao-asato&theme=github-dark-dimmed" width="100%" alt="Gráfico de Atividades do Jordão" />
@@ -43,7 +43,7 @@ Atualmente, atuo no mercado com desenvolvimento full stack e na área de Q.A., o
 
 ---
 
-### 📬 Vamos nos conectar?
+### Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jordao-asato-327063385)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordaovolletasato@gmail.com)
